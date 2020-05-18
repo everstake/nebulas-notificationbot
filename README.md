@@ -1,6 +1,6 @@
 # NEBULAS Notification Bot
 
-This script monitors the status of the Nebulas node and notifies the telegram channel if the node stops syncing or goes down.
+This script monitors the status of the Nebulas node and notifies the Telegram Bot if the node stops syncing or goes down.
 
 ### Prerequisites
 
